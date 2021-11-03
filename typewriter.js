@@ -7,8 +7,7 @@ const sentence = "hello there from lighthouse labs";
    }, timer)
    timer += 50;
    
-  
   }
-
+  process.stdout.write("\n");
 
 
